@@ -54,5 +54,6 @@ public class MainActivity extends AppCompatActivity {
         int IntegerExamplePullDown=2;
         int t= IntegerExamplePullDown +2;
         int sum= t+ IntegerExamplePullDown;
+        int k;
     }
 }
